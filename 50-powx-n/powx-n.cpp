@@ -24,6 +24,5 @@ public:
             binForm/=2;
         }
         return ans;
-
     }
 };
